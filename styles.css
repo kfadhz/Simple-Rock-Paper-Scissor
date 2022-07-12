@@ -1,0 +1,26 @@
+
+body {
+  background-color: red;
+  text-align: center;
+}
+
+#main-section {
+  padding: 7% 15%;
+}
+
+h1 {
+  font-size: 10rem;
+  font-family: 'Oleo Script', cursive;
+  font-weight: 700;
+}
+
+img {
+  width: 350px;
+  height: 350px;
+}
+
+.refresh-button{
+  font-family: 'Oleo Script', cursive;
+  font-weight: 400;
+  margin-top: 90px;
+}
